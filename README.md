@@ -11,6 +11,7 @@
 Desenvolvedor full-stack orientado a soluções, com expertise em arquitetar e implementar sistemas robustos que endereçam desafios complexos de negócio. 
 Minha abordagem combina visão estratégica com excelência técnica para entregar produtos escaláveis e de alto impacto.
 
+
 - 🔭 Resolvendo **desafios técnicos complexos** em ambientes de alta demanda
 - 🌱 Comprometido com a evolução contínua e adoção de tecnologias emergentes
 - 💡 Especialista em **análise de problemas** e desenvolvimento de soluções elegantes
@@ -70,19 +71,6 @@ const minhasEspecialidades = {
   softSkills: ['Trabalho em Equipe', 'Comunicação', 'Problem Solving']
 };
 ```
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-
-</div>
-
-</div>
 
 ## 📫 Como Me Encontrar
 
