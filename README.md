@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Sullivan!
 
 <div align="center">
-<br/>
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Resolvendo+problemas+com+código;Sempre+aprendendo+algo+novo)
   
@@ -18,7 +17,6 @@ Minha abordagem combina visão estratégica com excelência técnica para entreg
 - 💡 Especialista em **análise de problemas** e desenvolvimento de soluções elegantes
 - 🎯 Defensor de **código limpo, performático e sustentável**
 - ⚡ Transformando requisitos em **arquiteturas eficientes e escaláveis**
-<br/>
 
 ## 💻 Stack Tecnológica
 
@@ -59,7 +57,7 @@ Minha abordagem combina visão estratégica com excelência técnica para entreg
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
-<br/>
+
 ## 🎯 O Que Eu Resolvo
 
 ```typescript
@@ -73,7 +71,7 @@ const minhasEspecialidades = {
   softSkills: ['Trabalho em Equipe', 'Comunicação', 'Problem Solving']
 };
 ```
-<br/>
+
 ## 📫 Como Me Encontrar
 
 <div align="center">
