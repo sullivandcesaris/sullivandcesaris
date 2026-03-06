@@ -8,7 +8,8 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor full-stack orientado a soluções, com expertise em arquitetar e implementar sistemas robustos que endereçam desafios complexos de negócio. Minha abordagem combina visão estratégica com excelência técnica para entregar produtos escaláveis e de alto impacto.
+Desenvolvedor full-stack orientado a soluções, com expertise em arquitetar e implementar sistemas robustos que endereçam desafios complexos de negócio. 
+Minha abordagem combina visão estratégica com excelência técnica para entregar produtos escaláveis e de alto impacto.
 
 - 🔭 Resolvendo **desafios técnicos complexos** em ambientes de alta demanda
 - 🌱 Comprometido com a evolução contínua e adoção de tecnologias emergentes
@@ -74,19 +75,12 @@ const minhasEspecialidades = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sullivandcesaris&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sullivandcesaris&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sullivandcesaris&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 Conquistas
-
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=sullivandcesaris&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+
+</div>
 
 </div>
 
@@ -107,10 +101,6 @@ const minhasEspecialidades = {
   ### 💭 Citação do Dia
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ### 👀 Visualizações do Perfil
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=sullivandcesaris&color=blueviolet&style=for-the-badge)
   
 </div>
 
