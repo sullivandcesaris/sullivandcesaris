@@ -4,19 +4,19 @@
   
 </div>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Desenvolvedor full-stack orientado a soluções, com expertise em arquitetar e implementar sistemas robustos que endereçam desafios complexos de negócio. 
 Minha abordagem combina visão estratégica com excelência técnica para entregar produtos escaláveis e de alto impacto.
 
 
-- 🔭 Resolvendo **desafios técnicos complexos** em ambientes de alta demanda
-- 🌱 Comprometido com a evolução contínua e adoção de tecnologias emergentes
-- 💡 Especialista em **análise de problemas** e desenvolvimento de soluções elegantes
-- 🎯 Defensor de **código limpo, performático e sustentável**
-- ⚡ Transformando requisitos em **arquiteturas eficientes e escaláveis**
+- Resolvendo **desafios técnicos complexos** em ambientes de alta demanda
+- Comprometido com a evolução contínua e adoção de tecnologias emergentes
+- Especialista em **análise de problemas** e desenvolvimento de soluções elegantes
+- Defensor de **código limpo, performático e sustentável**
+- Transformando requisitos em **arquiteturas eficientes e escaláveis**
 
-## 💻 Stack Tecnológica
+## Stack Tecnológica
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Minha abordagem combina visão estratégica com excelência técnica para entreg
 
 </div>
 
-## 🎯 O Que Eu Resolvo
+## O Que Eu Resolvo
 
 ```typescript
 const minhasEspecialidades = {
@@ -70,7 +70,7 @@ const minhasEspecialidades = {
 };
 ```
 
-## 📫 Como Me Encontrar
+## Como Me Encontrar
 
 <div align="center">
 
@@ -84,7 +84,7 @@ const minhasEspecialidades = {
 
 <div align="center">
   
-  ### 💭 Citação do Dia
+  ### Citação do Dia
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
