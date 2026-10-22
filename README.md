@@ -1,6 +1,6 @@
 # Hi, I'm Sullivan Dcesaris
 
-### Full-stack developer focused on PHP/Laravel, React, and software architecture
+### Software Engineer | AI Automation | PHP & Laravel Specialist · Vue.js
 
 I turn business problems into simple, scalable, and maintainable software. My experience includes web applications, REST APIs, system integrations, and legacy modernization.
 
